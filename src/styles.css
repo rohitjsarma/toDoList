@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+.group {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.item {
+  margin: 5px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+}
+
+.Complete {
+  background-color: #a5d6a7;
+}
+
+.Incomplete {
+  background-color: #ffccbc;
+}
